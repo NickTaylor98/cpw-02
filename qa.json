@@ -1,27 +1,22 @@
 [
    {
-   "answer" : "Dima equals Dmitriy?",
-   "good" : "yes",
-   "bad" : "no"
+   "quest" : "Dima equals Dmitriy?",
+   "good" : "1"
    },
    {
-   "answer" : "1 is more than 2?",
-   "good" : "no",
-   "bad" : "yes"
+   "quest" : "1 is more than 2?",
+   "good" : "0"
    },
    {
-   "answer" : "Slipknot includes Corey Taylor?",
-   "good" : "yes",
-   "bad" : "no"
+   "quest" : "Slipknot includes Corey Taylor?",
+   "good" : "1"
    },
    {
-   "answer" : "Chester Bennigton is alive?",
-   "good" : "no",
-   "bad" : "yes"
+   "quest" : "Chester Bennigton is alive?",
+   "good" : "0"
    },
    {
-   "answer" : "Tsoy zhiv?",
-   "good" : "DA",
-   "bad" : "NET"
+   "quest" : "Tsoy zhiv?",
+   "good" : "1"
    }
 ]
