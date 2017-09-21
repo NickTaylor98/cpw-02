@@ -1,0 +1,27 @@
+[
+   {
+   "answer" : "Dima equals Dmitriy?",
+   "good" : "yes",
+   "bad" : "no"
+   },
+   {
+   "answer" : "1 is more than 2?",
+   "good" : "no",
+   "bad" : "yes"
+   },
+   {
+   "answer" : "Slipknot includes Corey Taylor?",
+   "good" : "yes",
+   "bad" : "no"
+   },
+   {
+   "answer" : "Chester Bennigton is alive?",
+   "good" : "no",
+   "bad" : "yes"
+   },
+   {
+   "answer" : "Tsoy zhiv?",
+   "good" : "DA",
+   "bad" : "NET"
+   }
+]
